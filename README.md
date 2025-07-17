@@ -12,7 +12,7 @@ So far, the following have been discussed:
 - Bloch Sphere Visualization
 - Transpilation and Hardware Constraints
 - Real-device Execution with `QiskitRuntimeService`
-- Grover's Algorithm
+- Double-slit experiment, Entanglement and the CHSH game
 - more to be added
 
 ## 📁 Structure
