@@ -43,6 +43,14 @@ The **Qiskit Global Summer School 2025** theme was **"The Past, Present and Futu
 - **CSS code theory** and logical qubit counting
 - **Topological quantum error correction** principles
 
+### IBM Quantum Network Topology
+
+The quantum chemistry experiments in Lab 3 utilized IBM's heavy-hex lattice architecture:
+
+![IBM Quantum Network Topology](images/network topo.png)
+
+*Figure: IBM Quantum backend connectivity graph showing the heavy-hex lattice structure used for optimal qubit layout selection in quantum chemistry simulations.*
+
 ## 📁 Repository Structure
 
 | Folder/File | Description | Key Achievements |
